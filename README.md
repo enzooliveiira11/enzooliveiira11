@@ -22,13 +22,11 @@ Sou um estudante apaixonado por tecnologia e programação, sempre em busca de s
 
 ---
 
-### 🌟 Projetos Destaques
+### 🌟 Projetos
 
-- **[Projeto 1 - Nome do Projeto](#)**
-  - Uma breve descrição sobre o projeto e seu objetivo.
+- **[MindFit](https://github.com/enzooliveiira11/Mindfit__PP)**
+  - O MindFit é um site que oferece jogos cognitivos para idosos, com o objetivo de melhorar a memória. Os usuários podem acessar o site de forma fácil e intuitiva em qualquer dispositivo conectado à internet, graças a uma interface amigável e organizada.
 
-- **[Projeto 2 - Nome do Projeto](#)**
-  - Outra breve descrição sobre este projeto e como ele foi desenvolvido.
 
 ---
 
@@ -37,7 +35,7 @@ Sou um estudante apaixonado por tecnologia e programação, sempre em busca de s
 
 - **Email:** [pazenzo04@gmail.com](mailto:pazenzo04@gmail.com)
 - **LinkedIn:** [Enzo Thomás Paz Oliveira](https://www.linkedin.com/in/enzo-thom%C3%A1s-paz-oliveira-261666239/)
-- **GitHub:** [Seu Perfil](#)
+- **Instagram:** [enzo_thomas11](https://www.instagram.com/enzo_thomas11/)
 
 ---
 
