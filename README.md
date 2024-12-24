@@ -32,18 +32,11 @@ Sou um estudante apaixonado por tecnologia e programação, sempre em busca de s
 
 ---
 
-### 📊 Contribuições Recentes
-
-- Total Contributions: **X**
-- Current Streak: **X dias**
-- Longest Streak: **X dias**
-
----
 
 ### 📫 Como me encontrar
 
-- **Email:** [seu-email@gmail.com](mailto:seu-email@gmail.com)
-- **LinkedIn:** [Seu Perfil](#)
+- **Email:** [pazenzo04@gmail.com](mailto:pazenzo04@gmail.com)
+- **LinkedIn:** [Enzo Thomás Paz Oliveira](https://www.linkedin.com/in/enzo-thom%C3%A1s-paz-oliveira-261666239/)
 - **GitHub:** [Seu Perfil](#)
 
 ---
