@@ -26,7 +26,7 @@ Sou um estudante apaixonado por tecnologia e programação, sempre em busca de s
 
 ### 🌟 Projetos
 
-- **[MindFit](https://github.com/enzooliveiira11/Mindfit__PP)**
+- **[MindFit](https://github.com/enzooliveiira11/MindFit.git)**
   - O MindFit é um site que oferece jogos cognitivos para idosos, com o objetivo de melhorar a memória. Os usuários podem acessar o site de forma fácil e intuitiva em qualquer dispositivo conectado à internet, graças a uma interface amigável e organizada.
 
 
