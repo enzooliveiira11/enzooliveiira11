@@ -20,7 +20,6 @@ Sou um estudante apaixonado por tecnologia e programação, sempre em busca de s
 ### 📚 Atualmente aprendendo
 
 - **React.js**
-- **TypeScript**
 - **Desenvolvimento de APIs**
 
 ---
@@ -42,12 +41,5 @@ Sou um estudante apaixonado por tecnologia e programação, sempre em busca de s
 
 ---
 
-### 🎲 Curiosidades
-
-- Amo viajar e explorar novos lugares.
-- Fã de jogos e tecnologia.
-- Sempre buscando aprender algo novo, seja na área de tecnologia ou na vida!
-
----
 
 Sinta-se à vontade para conectar comigo e trocar ideias! 💬
