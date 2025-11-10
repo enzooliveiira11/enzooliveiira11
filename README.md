@@ -19,9 +19,10 @@ Sou um estudante apaixonado por tecnologia e programação, sempre em busca de s
 
 ### 📚 Atualmente aprendendo
 
-- **React.js**
-- **Desenvolvimento de APIs**
-
+- **Inteligência Artificial**
+- **APIs**
+- **Automações**
+  
 ---
 
 ### 🌟 Projetos
