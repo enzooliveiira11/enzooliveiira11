@@ -27,15 +27,15 @@ Sou um estudante apaixonado por tecnologia e programação, sempre em busca de s
 
 ### 🌟 Projetos
 
-- **[MindFit](https://github.com/enzooliveiira11/MindFit.git)**
-  - O MindFit é um site que oferece jogos cognitivos para idosos, com o objetivo de melhorar a memória. Os usuários podem acessar o site de forma fácil e intuitiva em qualquer dispositivo conectado à internet, graças a uma interface amigável e organizada.
-
+#### 🧠 [MindFit](https://github.com/enzooliveiira11/MindFit.git)
+O **MindFit** é um site que oferece **jogos cognitivos para idosos**, com o objetivo de melhorar a memória.  
+A aplicação possui **interface responsiva e intuitiva**, acessível em qualquer dispositivo conectado à internet.
 
 ---
 
 #### 🏬 [Gerenciador de Lojas de um Shopping Center](https://github.com/enzooliveiira11/Gerenciador_Shopping.git)
 Projeto desenvolvido em **Java (POO)** para a disciplina *Laboratório I* da **Unisinos**.  
-Simula o gerenciamento de lojas dentro de um shopping center, incluindo **cadastro, consulta e controle de produtos, endereços e relatórios**.  
+Simula o gerenciamento de lojas dentro de um shopping center — incluindo **cadastro, consulta e controle de produtos, endereços e relatórios**.  
 Criado no ambiente **BlueJ** e executado via terminal.
 
 ---
