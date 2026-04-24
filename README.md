@@ -11,17 +11,23 @@ Sou um estudante apaixonado por tecnologia e programação, sempre em busca de s
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
+---
+
+### 🧪 Qualidade e Testes (QA)
+
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ### 📚 Atualmente aprendendo
 
-- **Inteligência Artificial**
-- **APIs**
-- **Automações**
+- **Qualidade de Software (QA):** Aprofundando conhecimentos em testes automatizados e integração contínua.
+- **Desenvolvimento com IA:** Explorando ferramentas como **Claude Code**, **Cursor** e **Copilot** para otimização de código.
   
 ---
 
