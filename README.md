@@ -28,7 +28,7 @@ Sou um estudante apaixonado por tecnologia e programação, sempre em busca de s
 ### 📚 Atualmente aprendendo
 
 - **Qualidade de Software (QA):** Aprofundando conhecimentos em testes automatizados e integração contínua.
-- **Desenvolvimento com IA:** Explorando ferramentas como **Claude Code**, **Cursor** e **Copilot** para otimização de código.
+- **Desenvolvimento com IA:** Explorando ferramentas como Claude Code, Cursor e Copilot para otimização de código.
   
 ---
 
